@@ -1,0 +1,51 @@
+#numberOne{
+  border-radius: 12%;
+  border: 2px solid #4286f4;
+  width: 80px;
+}
+
+#numberTwo{
+  border-radius: 12%;
+  border: 2px solid #4286f4;
+  width: 80px
+}
+
+#buttonSum{
+  background-color:black;
+  color: #b2f441
+}
+
+#buttonSubtract{
+  background-color:black;
+  color: #b2f441
+}
+
+#buttonDivide{
+  background-color:black;
+  color: #b2f441
+}
+
+#buttonMultiply{
+  background-color:black;
+  color: #b2f441
+}
+
+#buttonSum:hover{
+  background-color: white;
+  color: #4286f4
+}
+#buttonSubtract:hover{
+  background-color: white;
+  color: #4286f4
+}
+#buttonDivide:hover{
+  background-color: white;
+  color: #4286f4
+}
+#buttonMultiply:hover{
+  background-color: white;
+  color: #4286f4
+}
+
+
+
